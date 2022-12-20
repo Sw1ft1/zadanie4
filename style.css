@@ -1,0 +1,47 @@
+h1{
+	color: yellow;
+}
+.logo
+{
+	float:left;
+	margin:10px;
+	width:100px;
+	height:50px;
+}
+.logo_pad
+{
+	width:100%;
+	background-color:#993300;
+	padding: 10px;
+	height:70px;
+}
+.logo_text
+{
+	color: #F6D62A;
+}
+
+.navigate
+{
+
+	text-align: center;
+
+	word-spacing: 10px;
+}
+
+.pre-text
+{
+
+	text-align: center;
+}
+
+#main-aside-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+#main-aside-wrapper aside {
+  flex: 1;
+}
+#main-aside-wrapper main {
+  flex: 1;
+}
